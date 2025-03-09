@@ -5,4 +5,4 @@ https://archive.is/okSlz
 
 host your code on forgejo now - https://forgejo.org/
 
-fuck fascists. deleting all my code from here and never coming back, never contributing to OSS here. you're either for open source, or you help fascists with their agenda. there's no third thing, github made its choice and it chose wrong. 
+fuck fascists. deleting all my code from all allounts here and never coming back, never contributing to OSS here. you're either for open source, or you help fascists with their agenda. there's no third thing, github made its choice and it chose wrong. 
